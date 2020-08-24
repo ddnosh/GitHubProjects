@@ -10,6 +10,26 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Flutter<br>
+【编号】 NO.8<br>
+【项目】 flutter_mall<br>
+【地址】 https://github.com/youxinLu/flutter_mall<br>
+【简介】<br>
+Flutter_Mall是一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter_Mall基本上包含了litemall中小程序的功能。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/youxinLu/mall/raw/master/screenshots/Screenshot_20190924_100618_com.example.mall.jpg" width="25%"/>
+<img src="https://github.com/youxinLu/mall/raw/master/screenshots/Screenshot_20190924_101103_com.example.mall.jpg" width="25%"/>
+<img src="https://github.com/youxinLu/mall/raw/master/screenshots/Screenshot_20190903_092324_com.example.mall.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.7<br>
+【项目】 weiman_app<br>
+【地址】 https://github.com/nrop19/weiman_app<br>
+【简介】<br>
+微漫app的脱敏代码
+<br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.6<br>
 【项目】 fun_android_flutter<br>
 【地址】 https://github.com/phoenixsky/fun_android_flutter<br>
