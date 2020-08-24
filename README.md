@@ -8,6 +8,19 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.25<br>
+【项目】 ReadDaily<br>
+【地址】 https://github.com/whiplashz/ReadDaily<br>
+【简介】<br>
+MVP+Retrofit+RxJava+Jsoup+Glide Reading Android App
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/rockzhai/ReadDaily/raw/master/screenshot/main_new.png" width="25%"/>
+<img src="https://github.com/rockzhai/ReadDaily/raw/master/screenshot/daily.jpg" width="25%"/>
+<img src="https://github.com/rockzhai/ReadDaily/raw/master/screenshot/meizhi.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.24<br>
 【项目】 MicroReader<br>
 【地址】 https://github.com/YiuChoi/MicroReader<br>
