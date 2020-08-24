@@ -4,9 +4,10 @@
 --->>> 1. 关于看不到GitHub图片的解决方案：在hosts文件加上：199.232.4.133 raw.githubusercontent.com 
 
 - [Android](#Android)  
-【项目名】 TouTiao<br>
+【项目】 TouTiao<br>
 【地址】 https://github.com/chaychan/TouTiao<br>
 【简介】<br>
 精仿今日头条<br>
 【预览】<br>
 <img src="https://raw.githubusercontent.com/chaychan/TouTiaoPics/master/screenshot/home.jpg" width="24%" /><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯
