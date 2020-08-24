@@ -8,6 +8,19 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.10<br>
+【项目】 ncov_2019<br>
+【地址】 https://github.com/fluttercandies/ncov_2019<br>
+【简介】<br>
+为抗击新肺炎贡献一份技术力量-App研发
+<br>
+【预览】<br>
+<p align="center">
+<img src="https://github.com/fluttercandies/ncov_2019/raw/master/assets/git/home.png" width="25%"/>
+<img src="https://github.com/fluttercandies/ncov_2019/raw/master/assets/git/rumor1.png" width="25%"/>
+<img src="https://github.com/fluttercandies/ncov_2019/raw/master/assets/git/rumor2.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.9<br>
 【项目】 VettelGank<br>
 【地址】 https://github.com/V1sk/VettelGank<br>
