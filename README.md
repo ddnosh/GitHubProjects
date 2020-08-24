@@ -8,6 +8,19 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.7<br>
+【项目】 Awesome-WanAndroid<br>
+【地址】 https://github.com/JsonChao/Awesome-WanAndroid<br>
+【简介】<br>
+:zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
+<br>
+【预览】<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-WanAndroid/master/screenshots/GIF2.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-WanAndroid/master/screenshots/GIF6.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-WanAndroid/master/screenshots/GIF4.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.6<br>
 【项目】 WanAndroid_Flutter<br>
 【地址】 https://github.com/sw950729/WanAndroid_Flutter<br>
