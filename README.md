@@ -8,6 +8,19 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.11<br>
+【项目】 GSYVideoPlayer<br>
+【地址】 https://github.com/CarGuo/GSYVideoPlayer<br>
+【简介】<br>
+视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+<br>
+【预览】<br>
+<p align="center">
+<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/11.gif" width="25%"/>
+<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/22.gif" width="25%"/>
+<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/55.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.10<br>
 【项目】 ncov_2019<br>
 【地址】 https://github.com/fluttercandies/ncov_2019<br>
