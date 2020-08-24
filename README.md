@@ -323,6 +323,18 @@ A sample News news:paper_roll: app built using Modern Android Development [Archi
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Web前端<br>
+【编号】 NO.2<br>
+【项目】 MiniTodo<br>
+【地址】 https://github.com/kangdp/MiniTodo<br>
+【简介】<br>
+一款非常简洁、易用的清单管理小程序，用于随手记录想法以及待办事项的管理。<br>
+【预览】<br>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/16880885/30487091-f7b45980-9a64-11e7-9588-8b6b87ac6763.jpg" width="25%"/>
+<img src="https://user-images.githubusercontent.com/16880885/30487141-1f8ad416-9a65-11e7-960c-a102c47a3d0e.jpg" width="25%"/>
+<img src="https://user-images.githubusercontent.com/16880885/30487344-c93a0306-9a65-11e7-92f3-552072b1dbce.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.1<br>
 【项目】 MKOnlineMusicPlayer<br>
 【地址】 https://github.com/mengkunsoft/MKOnlineMusicPlayer<br>
@@ -330,8 +342,5 @@ A sample News news:paper_roll: app built using Modern Android Development [Archi
 :no_entry:（停止维护）多源的在线音乐播放器，基于 Meting<br>
 【预览】<br>
 <p align="left">
-<img src="https://user-images.githubusercontent.com/16880885/30487091-f7b45980-9a64-11e7-9588-8b6b87ac6763.jpg" width="25%"/>
-<img src="https://user-images.githubusercontent.com/16880885/30487141-1f8ad416-9a65-11e7-960c-a102c47a3d0e.jpg" width="25%"/>
-<img src="https://user-images.githubusercontent.com/16880885/30487344-c93a0306-9a65-11e7-92f3-552072b1dbce.jpg" width="25%"/>
 </p><br>
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
