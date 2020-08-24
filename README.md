@@ -108,6 +108,17 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.21<br>
+【项目】 Now<br>
+【地址】 https://github.com/XunMengWinter/Now<br>
+【简介】<br>
+Jsoup + MaterialViewPager + RxJava2 + Retrofit + Lifecycle + Realm + Fresco + Retrolambda example 一款Android图文精选app，通过抓取网页获得图文列表。目前包含猫弄（MONO）早午茶、站酷（Zcool）精选、国家地理（National Geographic）每日一图、知乎日报、豆瓣一刻（Moment）。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/XunMengWinter/source/master/gif/NowView.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.20<br>
 【项目】 CoroutinesWanAndroid<br>
 【地址】 https://github.com/kukyxs/CoroutinesWanAndroid<br>
