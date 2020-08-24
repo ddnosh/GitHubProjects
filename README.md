@@ -8,6 +8,17 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.3<br>
+【项目】 News<br>
+【地址】 https://github.com/AkshayChordiya/News<br>
+【简介】<br>
+A sample News news:paper_roll: app built using Modern Android Development [Architecture Components, Coroutines, Retrofit, Room, Kotlin, Dagger]
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/AkshayChordiya/News/master/art/screen.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.2<br>
 【项目】 ComicMTC_v2<br>
 【地址】 https://github.com/laishujie/ComicMTC_v2<br>
