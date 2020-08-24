@@ -8,6 +8,19 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.8<br>
+【项目】 GSYGithubAppKotlin<br>
+【地址】 https://github.com/CarGuo/GSYGithubAppKotlin<br>
+【简介】<br>
+超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本。 功能齐全，项目框架内技术涉及面广，完成度高。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。
+<br>
+【预览】<br>
+<p align="center">
+<img src="https://camo.githubusercontent.com/19de95a4c5ff9931b2131c297c4a2c46daf79dea/687474703a2f2f696d672e63646e2e67756f73687579752e636e2f73686f77617070312e6a7067" width="25%"/>
+<img src="https://camo.githubusercontent.com/429cabe25bac6ff889b4c3d26b46149e9baa528c/687474703a2f2f696d672e63646e2e67756f73687579752e636e2f73686f77617070322e6a7067" width="25%"/>
+<img src="https://camo.githubusercontent.com/a28f1fd23c4e6f442299f3afd8dad693b34db733/687474703a2f2f696d672e63646e2e67756f73687579752e636e2f73686f77617070332e6a7067" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.7<br>
 【项目】 Awesome-WanAndroid<br>
 【地址】 https://github.com/JsonChao/Awesome-WanAndroid<br>
