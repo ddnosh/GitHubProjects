@@ -8,6 +8,58 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.18<br>
+【项目】 Tucao<br>
+【地址】 https://github.com/blackbbc/Tucao<br>
+【简介】<br>
+http://www.tucao.tv/ 吐槽第三方Android客户端
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="25%"/>
+<img src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="25%"/>
+<img src="https://github.com/blackbbc/Tucao/raw/master/art/4.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.17<br>
+【项目】 fun_android_flutter<br>
+【地址】 https://github.com/phoenixsky/fun_android_flutter<br>
+【简介】<br>
+:imp::imp::imp::imp::imp:玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/28d5e75a6efa6393260a31e61cf9392fad9ac7a1/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031392f392f31382f313664343363656261383166356439373f773d33373526683d38313026663d67696626733d31353130313739" width="25%"/>
+<img src="https://camo.githubusercontent.com/845e004db6b8b32a02a24271aec3ab135922a9f3/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031392f392f31382f313664343363656261383061306430303f773d32353026683d35343026663d67696626733d34383339343236" width="25%"/>
+<img src="https://camo.githubusercontent.com/b912da1b4ef9b99bf9346754babd90fb059c78c3/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031392f392f31382f313664343363656261386132613638323f773d32353026683d35343026663d67696626733d32393930323032" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.16<br>
+【项目】 flutter_wanandroid<br>
+【地址】 https://github.com/Sky24n/flutter_wanandroid<br>
+【简介】<br>
+:fire::fire::fire: 基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/82760f591d0d8805424147829bc5dab16b5b169c/68747470733a2f2f67697465652e636f6d2f75706c6f6164732f696d616765732f323031392f303530362f3030343930335f30383337633136395f3530363836342e676966" width="25%"/>
+<img src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/splash.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/slide_back.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.15<br>
+【项目】 awaker<br>
+【地址】 https://github.com/nahzur-h/awaker<br>
+【简介】<br>
+article app for android
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/nahzur-h/awaker/raw/master/gif/image01.png" width="25%"/>
+<img src="https://github.com/nahzur-h/awaker/raw/master/gif/image02.png" width="25%"/>
+<img src="https://github.com/nahzur-h/awaker/raw/master/gif/image03.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.14<br>
 【项目】 GankFlutter<br>
 【地址】 https://github.com/ZQ330093887/GankFlutter<br>
