@@ -8,6 +8,17 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.4<br>
+【项目】 flutter_wanandroid<br>
+【地址】 https://github.com/maoqitian/flutter_wanandroid<br>
+【简介】<br>
+:pizza:让你随时随地都能愉快学习、进阶Android技术的跨平台WanAndroid客户端。Android、ios完美运行，主题切换，统一数据加载封装，功能丰富完整、适合日常学习和使用。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/maoqitian/flutter_wanandroid/raw/master/preview/showapp1.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.3<br>
 【项目】 News<br>
 【地址】 https://github.com/AkshayChordiya/News<br>
