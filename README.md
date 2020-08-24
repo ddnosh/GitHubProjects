@@ -1,5 +1,5 @@
 # GitHub-Open-Source-Project
-【持续更新/白嫖/无广告】本库主要搜集GitHub上好用的完整开源项目  
+【持续更新/白嫖/无广告】搜集GitHub上好用的完整开源项目，直接拿来就可以用
 
 --->>> 1. 关于看不到GitHub图片的解决方案：在hosts文件加上：199.232.4.133 raw.githubusercontent.com 
 
