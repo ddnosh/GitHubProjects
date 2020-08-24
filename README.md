@@ -8,6 +8,17 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.9<br>
+【项目】 VettelGank<br>
+【地址】 https://github.com/V1sk/VettelGank<br>
+【简介】<br>
+Vettel's Gank是基于gank.io开放Api实现的一款非官方干货集中营客户端。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/V1sk/VettelGank/master/screenshot/vettel_gank.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.8<br>
 【项目】 GSYGithubAppKotlin<br>
 【地址】 https://github.com/CarGuo/GSYGithubAppKotlin<br>
