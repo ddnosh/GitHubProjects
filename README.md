@@ -8,6 +8,19 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.6<br>
+【项目】 WanAndroid_Flutter<br>
+【地址】 https://github.com/sw950729/WanAndroid_Flutter<br>
+【简介】<br>
+WanAndroid Flutter客户端
+<br>
+【预览】<br>
+<p align="center">
+<img src="https://github.com/sw950729/WanAndroid_Flutter/raw/master/shareImg/01.jpg" width="25%"/>
+<img src="https://github.com/sw950729/WanAndroid_Flutter/raw/master/shareImg/04.jpg" width="25%"/>
+<img src="https://github.com/sw950729/WanAndroid_Flutter/raw/master/shareImg/05.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.5<br>
 【项目】 KotlinAndroid<br>
 【地址】 https://github.com/guofudong/KotlinAndroid<br>
