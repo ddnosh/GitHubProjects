@@ -8,6 +8,80 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
+【编号】 NO.24<br>
+【项目】 MicroReader<br>
+【地址】 https://github.com/YiuChoi/MicroReader<br>
+【简介】<br>
+一个小而美的阅读客户端
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/YiuChoi/MicroReader/raw/master/screenshot/Screenshot_20160503-085830.png" width="25%"/>
+<img src="https://github.com/YiuChoi/MicroReader/raw/master/screenshot/Screenshot_20160503-085853.png" width="25%"/>
+<img src="https://github.com/YiuChoi/MicroReader/raw/master/screenshot/Screenshot_20160503-085902.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.23<br>
+【项目】 ElegantEyepetizer<br>
+【地址】 https://github.com/wanglg/ElegantEyepetizer<br>
+【简介】<br>
+仿开眼,仿头条，仿抖音，还有谁...
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/wanglg/resource/raw/master/5BCE4EBBB2F6FD3A1F41263A5AA3B511.jpg" width="25%"/>
+<img src="https://github.com/wanglg/resource/raw/master/15DDF18C59BB4404BC2ABA5574ABD17C.jpg" width="25%"/>
+<img src="https://github.com/wanglg/resource/raw/master/878C6697157DE47FD69B04995B4AAB30.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.22<br>
+【项目】 MovieApp<br>
+【地址】 https://github.com/StevenYan88/MovieApp<br>
+【简介】<br>
+电影资讯App是一个纯练手项目，使用Kotlin语言开发。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/b0d46169b0b39bfab826165f31713c99eec13051/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313437323435332d633432313265616135356639616664612e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="25%"/>
+<img src="https://camo.githubusercontent.com/a2763637786b761d72dd5bb77209c0891ccb7cee/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313437323435332d316163346231613461646363616662312e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="25%"/>
+<img src="https://camo.githubusercontent.com/e7785e728014c54837a28c2b022b427266cd16df/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313437323435332d373665356665383236336564326664352e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.21<br>
+【项目】 KotlinWanAndroid<br>
+【地址】 https://github.com/ITGungnir/KotlinWanAndroid<br>
+【简介】<br>
+Kotlin+模块化+响应式+MVVM 实现的风格简约、代码优雅的WanAndroid客户端
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/ITGungnir/KotlinWanAndroid/raw/master/images/screen_shot_01.png" width="25%"/>
+<img src="https://github.com/ITGungnir/KotlinWanAndroid/raw/master/images/screen_shot_02.png" width="25%"/>
+<img src="https://github.com/ITGungnir/KotlinWanAndroid/raw/master/images/screen_shot_03.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.20<br>
+【项目】 PaoNet<br>
+【地址】 https://github.com/ditclear/PaoNet<br>
+【简介】<br>
+【MVVM+RxJava2+AspectJ】泡网第三方客户端，网站主页：http://www.jcodecraeer.com/index.php
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/ditclear/PaoNet/raw/master/screenshot/home.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.19<br>
+【项目】 WanAndroid<br>
+【地址】 https://github.com/jenly1314/WanAndroid<br>
+【简介】<br>
+:surfer: 基于Architecture Components dependencies （Lifecycles，LiveData，ViewModel，Room）构建的WanAndroid开源项目。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/jenly1314/WanAndroid/raw/master/GIF.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.18<br>
 【项目】 Tucao<br>
 【地址】 https://github.com/blackbbc/Tucao<br>
