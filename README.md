@@ -8,17 +8,29 @@
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Android<br>
-【编号】 NO.11<br>
-【项目】 GSYVideoPlayer<br>
-【地址】 https://github.com/CarGuo/GSYVideoPlayer<br>
+【编号】 NO.12<br>
+【项目】 iMusic<br>
+【地址】 https://github.com/Yuye584312311/iMusic<br>
 【简介】<br>
-视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+一个集视频播放器、音乐播放器封装库于一身的iMusic工程
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/a3b9e3ba5384d12894d16046692300fde0b0a6a8/687474703a2f2f6874795f797579652e67697465652e696f2f6f70656e66696c652f696d757369632f73637265656e73686f742f4d757369632e676966" width="25%"/>
+<img src="https://camo.githubusercontent.com/cbe6d02be71afcfcd9184bb2233c0f3683b11519/687474703a2f2f6874795f797579652e67697465652e696f2f6f70656e66696c652f696d757369632f73637265656e73686f742f566964656f2e676966"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.11<br>
+【项目】 WanAndroid<br>
+【地址】 https://github.com/iceCola7/WanAndroid<br>
+【简介】<br>
+:fire:项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 [玩Android] 客户端
 <br>
 【预览】<br>
 <p align="center">
-<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/11.gif" width="25%"/>
-<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/22.gif" width="25%"/>
-<img src="https://github.com/CarGuo/GSYVideoPlayer/raw/master/img/55.gif" width="25%"/>
+<img src="https://github.com/iceCola7/WanAndroid/raw/master/art/05.jpg" width="25%"/>
+<img src="https://github.com/iceCola7/WanAndroid/raw/master/art/06.jpg" width="25%"/>
+<img src="https://github.com/iceCola7/WanAndroid/raw/master/art/17.jpg" width="25%"/>
 </p><br>
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.10<br>
