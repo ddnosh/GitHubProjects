@@ -1,5 +1,5 @@
 # GitHub-Open-Source-Project
-【持续更新/白嫖/无广告】搜集整理GitHub上好用的开源项目  
+【持续更新/白嫖/无广告】本库主要搜集GitHub上好用的完整开源项目  
 
 --->>> 1. 关于看不到GitHub图片的解决方案：在hosts文件加上：199.232.4.133 raw.githubusercontent.com 
 
@@ -7,7 +7,7 @@
 - [Web前端](#Web前端)  
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋  
-# Android
+# Android  
 【编号】 NO.2<br>
 【项目】 ComicMTC_v2<br>
 【地址】 https://github.com/laishujie/ComicMTC_v2<br>
@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/chaychan/TouTiaoPics/master/screenshot/micro.jpg" width="25%"/>
 </p><br>
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
-# Web前端
+# Web前端  
 【编号】 NO.1<br>
 【项目】 MKOnlineMusicPlayer<br>
 【地址】 https://github.com/mengkunsoft/MKOnlineMusicPlayer<br>
