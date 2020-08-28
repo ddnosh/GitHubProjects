@@ -109,6 +109,13 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.22<br>
+【项目】 ExoPlayer<br>
+【地址】 https://github.com/google/ExoPlayer<br>
+【简介】<br>
+ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks. Unlike the MediaPlayer API, ExoPlayer is easy to customize and extend, and can be updated through Play Store application updates.
+<br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.21<br>
 【项目】 Now<br>
 【地址】 https://github.com/XunMengWinter/Now<br>
