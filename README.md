@@ -8,6 +8,7 @@
 - [Web前端](#Web前端)  
 - [后台](#后台)  
 - [Python](#Python)  
+- [PC](#PC)
 
 ﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋
 # Flutter<br>
@@ -409,5 +410,17 @@ A sample News news:paper_roll: app built using Modern Android Development [Archi
 <img src="https://github.com/wangshub/Douyin-Bot/raw/master/screenshot/demo.gif" width="25%"/>
 <img src="https://github.com/wangshub/Douyin-Bot/raw/master/screenshot/auto_reply.gif" width="25%"/>
 <img src="https://user-images.githubusercontent.com/16880885/30487344-c93a0306-9a65-11e7-92f3-552072b1dbce.jpg" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+
+# PC<br>
+【编号】 NO.1<br>
+【项目】 proxyee-down<br>
+【地址】 https://github.com/proxyee-down-org/proxyee-down<br>
+【简介】<br>
+http下载工具，基于http代理，支持多连接分块下载<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/956fc884c84feafe715133171028bd64ce3138ad/68747470733a2f2f692e696d6775722e636f6d2f6455764e676d642e6a7067" width="25%"/>
 </p><br>
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
