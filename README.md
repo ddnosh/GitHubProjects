@@ -110,6 +110,19 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.24<br>
+【项目】 BookReader<br>
+【地址】 https://github.com/smuyyh/BookReader<br>
+【简介】<br>
+:closed_book: "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/JustWayward/BookReader/raw/master/screenshot/home_zhuishu.png?raw=true" width="25%"/>
+<img src="https://github.com/JustWayward/BookReader/raw/master/screenshot/read_page_9.png?raw=true" width="25%"/>
+<img src="https://github.com/JustWayward/BookReader/raw/master/screenshot/book_detail.png?raw=true" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.23<br>
 【项目】 reader-android<br>
 【地址】 https://github.com/yuenov/reader-android<br>
