@@ -110,6 +110,19 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.23<br>
+【项目】 reader-android<br>
+【地址】 https://github.com/yuenov/reader-android<br>
+【简介】<br>
+阅小说Android客户端源码
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/yuenov/reader-android/raw/master/resource/1.png" width="25%"/>
+<img src="https://github.com/yuenov/reader-android/raw/master/resource/2.png" width="25%"/>
+<img src="https://github.com/yuenov/reader-android/raw/master/resource/3.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.22<br>
 【项目】 ExoPlayer<br>
 【地址】 https://github.com/google/ExoPlayer<br>
