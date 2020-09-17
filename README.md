@@ -110,6 +110,19 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.25<br>
+【项目】 LCG<br>
+【地址】 https://github.com/fabricezhang/lcg<br>
+【简介】<br>
+吾爱破解第三方安卓应用
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/ddnosh/githubusercontent/blob/master/image/1.jpg?raw=true" width="25%"/>
+<img src="https://github.com/ddnosh/githubusercontent/blob/master/image/2.jpg?raw=true" width="25%"/>
+<img src="https://github.com/ddnosh/githubusercontent/blob/master/image/3.jpg?raw=true" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.24<br>
 【项目】 BookReader<br>
 【地址】 https://github.com/smuyyh/BookReader<br>
