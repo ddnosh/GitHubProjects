@@ -439,6 +439,18 @@ A sample News news:paper_roll: app built using Modern Android Development [Archi
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # 后台<br>
+【编号】 NO.2<br>
+【项目】 mall<br>
+【地址】 https://github.com/macrozheng/mall<br>
+【简介】<br>
+mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/ed80a63a3e19e658f052a71db3ab882aea58107e/687474703a2f2f696d672e6d6163726f7a68656e672e636f6d2f6d616c6c2f70726f6a6563742f6d616c6c5f61646d696e5f73686f772e706e67" width="25%"/>
+<img src="https://camo.githubusercontent.com/75e3ce6f0661a7485a816258b9acf10d71be1333/687474703a2f2f696d672e6d6163726f7a68656e672e636f6d2f6d616c6c2f70726f6a6563742f6d616c6c5f6170705f73686f772e706e67" width="25%"/>
+<img src="https://camo.githubusercontent.com/434fab34e097305fc3391e9a16ee5a410840c79a/687474703a2f2f696d672e6d6163726f7a68656e672e636f6d2f6d616c6c2f70726f6a6563742f6d616c6c5f6d6963726f5f736572766963655f617263682e6a7067" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.1<br>
 【项目】 SpringBootBlog<br>
 【地址】 https://github.com/caozongpeng/SpringBootBlog<br>
