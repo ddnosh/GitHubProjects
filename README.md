@@ -110,6 +110,19 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.26<br>
+【项目】 MovieGuide<br>
+【地址】 https://github.com/esoxjem/MovieGuide<br>
+【简介】<br>
+Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/d43f985014a6ef8e7a8054cde976fce0977fbcac/687474703a2f2f692e696d6775722e636f6d2f373250797058436d2e706e67" width="25%"/>
+<img src="https://camo.githubusercontent.com/ad120628f367abe35dabce72336120dc773b62b0/687474703a2f2f696d6775722e636f6d2f493936456b61366d2e706e67" width="25%"/>
+<img src="https://camo.githubusercontent.com/04d8e35076dbe346bc91296775a380e0b5bb743d/687474703a2f2f696d6775722e636f6d2f5077746a5a484b6d2e706e67" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.25<br>
 【项目】 LCG<br>
 【地址】 https://github.com/fabricezhang/lcg<br>
