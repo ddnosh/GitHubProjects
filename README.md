@@ -110,6 +110,71 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.31<br>
+【项目】 WeiBo<br>
+【地址】 https://github.com/wenmingvs/WeiBo<br>
+【简介】<br>
+第三方新浪微博客户端
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://camo.githubusercontent.com/973ff406a7dd3505f80906e3d74ed84556b4913fe38d8c6bc71d77792f21b8af/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f3639316363313531677731663372746b713478376d6a323037693064633735722e6a7067" width="25%"/>
+<img src="https://camo.githubusercontent.com/af0c6c11c40dd9c392bcc454c3f900fad7858d71c155d7ae5477e1b1e1ef92c9/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3639316363313531677731663372746b70677065626a32303769306463676d792e6a7067" width="25%"/>
+<img src="https://camo.githubusercontent.com/26613d95c935e7013385af90d92e3ba605321e61f49d0d7905d387b424510275/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3639316363313531677731663372746b6e7768376b6a323037693064636467782e6a7067" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.30<br>
+【项目】 bilibili-android-client<br>
+【地址】 https://github.com/HotBitmapGG/bilibili-android-client<br>
+【简介】<br>
+An unofficial bilibili client for android
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/00.png" width="25%"/>
+<img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/01.png" width="25%"/>
+<img src="https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/02.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.29<br>
+【项目】 remusic<br>
+【地址】 https://github.com/aa112901/remusic<br>
+【简介】<br>
+仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/aa112901/remusic/raw/master/screenshot/1%20(2).png" width="25%"/>
+<img src="https://github.com/aa112901/remusic/raw/master/screenshot/device-2016-11-01-103226.png" width="25%"/>
+<img src="https://github.com/aa112901/remusic/raw/master/screenshot/1%20(3).png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.28<br>
+【项目】 NewPipe<br>
+【地址】 https://github.com/TeamNewPipe/NewPipe<br>
+【简介】<br>
+A libre lightweight streaming front-end for Android.
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/TeamNewPipe/NewPipe/raw/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/shot_01.png" width="25%"/>
+<img src="https://github.com/TeamNewPipe/NewPipe/raw/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/shot_04.png" width="25%"/>
+<img src="https://github.com/TeamNewPipe/NewPipe/raw/dev/fastlane/metadata/android/en-US/images/tenInchScreenshots/shot_11.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.27<br>
+【项目】 LQRWeChat<br>
+【地址】 https://github.com/GitLqr/LQRWeChat<br>
+【简介】<br>
+本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/GitLqr/LQRWeChat/raw/master/screenshots/1.gif" width="25%"/>
+<img src="https://github.com/GitLqr/LQRWeChat/raw/master/screenshots/4.gif" width="25%"/>
+<img src="https://github.com/GitLqr/LQRWeChat/raw/master/screenshots/8.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.26<br>
 【项目】 MovieGuide<br>
 【地址】 https://github.com/esoxjem/MovieGuide<br>
