@@ -110,6 +110,32 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.33<br>
+【项目】 YiZhi<br>
+【地址】 https://github.com/Horrarndoo/YiZhi<br>
+【简介】<br>
+MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/Horrarndoo/imageAssets/master/yizhi/flash_permission.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/Horrarndoo/imageAssets/master/yizhi/home_lazy_init.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/Horrarndoo/imageAssets/master/yizhi/home_detail_pic.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.32<br>
+【项目】 GeekNews<br>
+【地址】 https://github.com/codeestX/GeekNews<br>
+【简介】<br>
+📚A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF1.gif" width="25%"/>
+<img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF2.gif" width="25%"/>
+<img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF3.gif" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.31<br>
 【项目】 WeiBo<br>
 【地址】 https://github.com/wenmingvs/WeiBo<br>
