@@ -110,6 +110,19 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.34<br>
+【项目】 sunflower<br>
+【地址】 https://github.com/android/sunflower<br>
+【简介】<br>
+A gardening app illustrating Android development best practices with Android Jetpack.
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/android/sunflower/raw/main/screenshots/phone_plant_list.png" width="25%"/>
+<img src="https://github.com/android/sunflower/raw/main/screenshots/phone_plant_detail.png" width="25%"/>
+<img src="https://github.com/android/sunflower/raw/main/screenshots/phone_my_garden.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.33<br>
 【项目】 YiZhi<br>
 【地址】 https://github.com/Horrarndoo/YiZhi<br>
