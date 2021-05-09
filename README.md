@@ -110,6 +110,30 @@ WanAndroid Flutter客户端
 ╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 
 # Android<br>
+【编号】 NO.36<br>
+【项目】 TaigaMobile<br>
+【地址】 https://github.com/EugeneTheDev/TaigaMobile<br>
+【简介】<br>
+Android app for Taiga agile system
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/EugeneTheDev/TaigaMobile/raw/master/screenshots/login.png" width="25%"/>
+<img src="https://github.com/EugeneTheDev/TaigaMobile/raw/master/screenshots/scrum.png" width="25%"/>
+<img src="https://github.com/EugeneTheDev/TaigaMobile/raw/master/screenshots/story.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+【编号】 NO.35<br>
+【项目】 stack<br>
+【地址】 https://github.com/tylerbwong/stack/<br>
+【简介】<br>
+An Android app for browsing Stack Overflow and other Stack Exchange sites.
+<br>
+【预览】<br>
+<p align="left">
+<img src="https://github.com/tylerbwong/stack/raw/master/.idea/icon.png" width="25%"/>
+</p><br>
+╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
 【编号】 NO.34<br>
 【项目】 sunflower<br>
 【地址】 https://github.com/android/sunflower<br>
