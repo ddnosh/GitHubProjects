@@ -68,6 +68,7 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | ![GitHub stars](https://img.shields.io/github/stars/flutter/flutter.svg)
 [awesome-flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | ![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter.svg)
 [flutter-go](https://github.com/alibaba/flutter-go) | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | ![GitHub stars](https://img.shields.io/github/stars/alibaba/flutter-go.svg)
 [flutter_mall](https://github.com/youxinLu/flutter_mall) | Flutter_Mall是一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter_Mall基本上包含了litemall中小程序的功能。 | ![GitHub stars](https://img.shields.io/github/stars/youxinLu/flutter_mall.svg)
