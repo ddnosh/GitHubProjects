@@ -14,6 +14,8 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | ![GitHub stars](https://img.shields.io/github/stars/jackfrued/Python-100-Days.svg)
+[Python](https://github.com/walter201230/Python) | 最良心的 Python 教程： | ![GitHub stars](https://img.shields.io/github/stars/walter201230/Python.svg)
 [python-spider](https://github.com/Jack-Cherish/python-spider) | 🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | ![GitHub stars](https://img.shields.io/github/stars/Jack-Cherish/python-spider.svg)
 [python](https://github.com/zhanghe06/python) | Python使用记录 | ![GitHub stars](https://img.shields.io/github/stars/zhanghe06/python.svg)
 [PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) | Python入门网络爬虫之精华版 | ![GitHub stars](https://img.shields.io/github/stars/lining0806/PythonSpiderNotes.svg)
