@@ -3,11 +3,11 @@
 
 --->>> 1. 关于看不到GitHub图片的解决方案：在hosts文件加上：199.232.4.133 raw.githubusercontent.com 
 
+- [Python](#Python)  
 - [Android](#Android)  
 - [Flutter](#Flutter)  
 - [前端](#前端)  
 - [后台](#后台)  
-- [Python](#Python)  
 - [PC](#PC)
 
 ### Python
