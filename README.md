@@ -14,6 +14,7 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[stock-api](https://github.com/zhangxiangliang/stock-api) | 股票接口 | 韭菜小猪 | A股 | 美股 | 港股 | 股票 | 基金 | JavaScript | ![GitHub stars](https://img.shields.io/github/stars/zhangxiangliang/stock-api.svg)
 [easyquotation](https://github.com/shidenggui/easyquotation) | 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情 | ![GitHub stars](https://img.shields.io/github/stars/shidenggui/easyquotation.svg)
 [scrapy-examples](https://github.com/geekan/scrapy-examples) | Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc. | ![GitHub stars](https://img.shields.io/github/stars/geekan/scrapy-examples.svg)
 [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) | QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案 | ![GitHub stars](https://img.shields.io/github/stars/QUANTAXIS/QUANTAXIS.svg)
