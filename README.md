@@ -10,6 +10,17 @@
 - [Python](#Python)  
 - [PC](#PC)
 
+### Python
+
+库名 | 简述 | Stars
+---- | ----- | ---
+[python-spider](https://github.com/Jack-Cherish/python-spider) | 🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | ![GitHub stars](https://img.shields.io/github/stars/Jack-Cherish/python-spider.svg)
+[python](https://github.com/zhanghe06/python) | Python使用记录 | ![GitHub stars](https://img.shields.io/github/stars/zhanghe06/python.svg)
+[PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) | Python入门网络爬虫之精华版 | ![GitHub stars](https://img.shields.io/github/stars/lining0806/PythonSpiderNotes.svg)
+[learn-python3](https://github.com/michaelliao/learn-python3) | Learn Python 3 Sample Code | ![GitHub stars](https://img.shields.io/github/stars/michaelliao/learn-python3.svg)
+[Python](https://github.com/geekcomputers/Python) | My Python Examples | ![GitHub stars](https://img.shields.io/github/stars/geekcomputers/Python.svg)
+[Douyin-Bot](https://github.com/wangshub/Douyin-Bot) | :heart_eyes: Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ | ![GitHub stars](https://img.shields.io/github/stars/wangshub/Douyin-Bot.svg)
+
 ### Android
 
 库名 | 简述 | Stars
@@ -79,12 +90,6 @@
 ---- | ----- | ---
 [mall](https://github.com/macrozheng/mall) | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | ![GitHub stars](https://img.shields.io/github/stars/macrozheng/mall.svg)
 [SpringBootBlog](https://github.com/caozongpeng/SpringBootBlog) | 一个基于SpringBoot开发的个人博客。集成了：博客前台，后台管理。 | ![GitHub stars](https://img.shields.io/github/stars/caozongpeng/SpringBootBlog.svg)
-
-### Python
-
-库名 | 简述 | Stars
----- | ----- | ---
-[Douyin-Bot](https://github.com/wangshub/Douyin-Bot) | :heart_eyes: Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ | ![GitHub stars](https://img.shields.io/github/stars/wangshub/Douyin-Bot.svg)
 
 ### PC
 
