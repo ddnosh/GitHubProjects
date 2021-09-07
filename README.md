@@ -33,6 +33,7 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[wanandroid_jetpack](https://github.com/yechaoa/wanandroid_jetpack) | 玩安卓的Jetpack版本 | ![GitHub stars](https://img.shields.io/github/stars/yechaoa/wanandroid_jetpack.svg)
 [TaigaMobile](https://github.com/EugeneTheDev/TaigaMobile) | Android app for Taiga agile system | ![GitHub stars](https://img.shields.io/github/stars/EugeneTheDev/TaigaMobile.svg)
 [stack](https://github.com/tylerbwong/stack) | An Android app for browsing Stack Overflow and other Stack Exchange sites. | ![GitHub stars](https://img.shields.io/github/stars/tylerbwong/stack.svg)
 [sunflower](https://github.com/android/sunflower) | A gardening app illustrating Android development best practices with Android Jetpack. | ![GitHub stars](https://img.shields.io/github/stars/android/sunflower.svg)
