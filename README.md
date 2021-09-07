@@ -14,6 +14,7 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。 | ![GitHub stars](https://img.shields.io/github/stars/kangvcar/InfoSpider.svg)
 [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | ![GitHub stars](https://img.shields.io/github/stars/jackfrued/Python-100-Days.svg)
 [Python](https://github.com/walter201230/Python) | 最良心的 Python 教程： | ![GitHub stars](https://img.shields.io/github/stars/walter201230/Python.svg)
 [python-spider](https://github.com/Jack-Cherish/python-spider) | 🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | ![GitHub stars](https://img.shields.io/github/stars/Jack-Cherish/python-spider.svg)
