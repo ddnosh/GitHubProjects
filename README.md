@@ -14,6 +14,11 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[easyquotation](https://github.com/shidenggui/easyquotation) | 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情 | ![GitHub stars](https://img.shields.io/github/stars/shidenggui/easyquotation.svg)
+[scrapy-examples](https://github.com/geekan/scrapy-examples) | Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc. | ![GitHub stars](https://img.shields.io/github/stars/geekan/scrapy-examples.svg)
+[QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) | QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案 | ![GitHub stars](https://img.shields.io/github/stars/QUANTAXIS/QUANTAXIS.svg)
+[stock](https://github.com/Rockyzsu/stock) | 30天掌握量化交易 (持续更新) | ![GitHub stars](https://img.shields.io/github/stars/Rockyzsu/stock.svg)
+[gopup](https://github.com/justinzm/gopup) | 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据… | ![GitHub stars](https://img.shields.io/github/stars/justinzm/gopup.svg)
 [InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。 | ![GitHub stars](https://img.shields.io/github/stars/kangvcar/InfoSpider.svg)
 [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | ![GitHub stars](https://img.shields.io/github/stars/jackfrued/Python-100-Days.svg)
 [Python](https://github.com/walter201230/Python) | 最良心的 Python 教程： | ![GitHub stars](https://img.shields.io/github/stars/walter201230/Python.svg)
