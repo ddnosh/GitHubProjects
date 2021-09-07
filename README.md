@@ -34,6 +34,8 @@
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) | MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5 | ![GitHub stars](https://img.shields.io/github/stars/ahmedeltaher/MVVM-Kotlin-Android-Architecture.svg)
+[Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) | 是 难得一见 的 Jetpack MVVM 最佳实践！在 以简驭繁 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！ | ![GitHub stars](https://img.shields.io/github/stars/KunMinX/Jetpack-MVVM-Best-Practice.svg)
 [wanandroid_jetpack](https://github.com/yechaoa/wanandroid_jetpack) | 玩安卓的Jetpack版本 | ![GitHub stars](https://img.shields.io/github/stars/yechaoa/wanandroid_jetpack.svg)
 [TaigaMobile](https://github.com/EugeneTheDev/TaigaMobile) | Android app for Taiga agile system | ![GitHub stars](https://img.shields.io/github/stars/EugeneTheDev/TaigaMobile.svg)
 [stack](https://github.com/tylerbwong/stack) | An Android app for browsing Stack Overflow and other Stack Exchange sites. | ![GitHub stars](https://img.shields.io/github/stars/tylerbwong/stack.svg)
