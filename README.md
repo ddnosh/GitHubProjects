@@ -4,6 +4,7 @@
 --->>> 1. 关于看不到GitHub图片的解决方案：在hosts文件加上：199.232.4.133 raw.githubusercontent.com 
 
 - [Python](#Python)  
+- [全栈](#全栈)  
 - [Android](#Android)  
 - [Flutter](#Flutter)  
 - [前端](#前端)  
@@ -29,6 +30,12 @@
 [learn-python3](https://github.com/michaelliao/learn-python3) | Learn Python 3 Sample Code | ![GitHub stars](https://img.shields.io/github/stars/michaelliao/learn-python3.svg)
 [Python](https://github.com/geekcomputers/Python) | My Python Examples | ![GitHub stars](https://img.shields.io/github/stars/geekcomputers/Python.svg)
 [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) | :heart_eyes: Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ | ![GitHub stars](https://img.shields.io/github/stars/wangshub/Douyin-Bot.svg)
+
+### 全栈
+
+库名 | 简述 | Stars
+---- | ----- | ---
+[WeiDong](https://github.com/arraycto/WeiDong) | 【微动】基于SpringBoot+Android的学生运动社区APP；移动端、服务器端源码及软件设计开发文档;） | ![GitHub stars](https://img.shields.io/github/stars/arraycto/WeiDong.svg)
 
 ### Android
 
