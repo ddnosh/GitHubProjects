@@ -106,6 +106,7 @@
 [MiniTodo](https://github.com/kangdp/MiniTodo) | 一款非常简洁、易用的清单管理小程序，用于随手记录想法以及待办事项的管理。 | ![GitHub stars](https://img.shields.io/github/stars/kangdp/MiniTodo.svg)
 [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) | :no_entry:（停止维护）多源的在线音乐播放器，基于 Meting | ![GitHub stars](https://img.shields.io/github/stars/mengkunsoft/MKOnlineMusicPlayer.svg)
 [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | ![GitHub stars](https://img.shields.io/github/stars/30-seconds/30-seconds-of-code.svg)
+[mina-gulp-cli](https://github.com/milobluebell/mina-gulp-cli) | 一个轻量级的小程序开发脚手架，基于gulp | ![GitHub stars](https://img.shields.io/github/stars/milobluebell/mina-gulp-cli.svg)
 
 ### 后台
 
